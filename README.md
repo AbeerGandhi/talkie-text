@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Talkie-text
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Speak & Save
 
-## Available Scripts
+Overview
 
-In the project directory, you can run:
+Speak & Save is a simple voice-to-text application that allows users to record their speech, transcribe it in real time, and save the notes for later use. It utilizes the Web Speech API for speech recognition.
 
-### `npm start`
+Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Start and stop live speech recognition
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Display real-time transcription
 
-### `npm test`
+Save transcriptions as notes
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+View saved notes
+Overview
 
-### `npm run build`
+Speak & Save is a simple voice-to-text application that allows users to record their speech, transcribe it in real time, and save the notes for later use. It utilizes the Web Speech API for speech recognition.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Start and stop live speech recognition
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Display real-time transcription
 
-### `npm run eject`
+Save transcriptions as notes
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+View saved notes
