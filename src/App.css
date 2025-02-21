@@ -1,0 +1,95 @@
+/* General Page Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background: #8ea0a9;
+  margin: 0;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Main Title */
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #2C3E50;
+  
+}
+
+/* Container */
+.container {
+  display:grid;
+  gap: 30px;
+  width: 3500px;
+  max-width: 900px;
+  justify-content: center;
+}
+
+/* Card Box */
+.box {
+  background: #FFFFFF;
+  padding: 25px;
+  border-radius: 10px;
+  width: 100%;
+  min-height: 200px;
+  border: 3px solid #34495E;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  text-align: left;
+}
+
+/* Titles inside the Box */
+.box h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #2C3E50;
+}
+
+/* Note Content */
+.note-content {
+  font-size: 16px;
+  color: #333;
+  min-height: 50px;
+}
+
+/* Button Group */
+.button-group {
+  display: flex;
+  gap: 12px;
+  margin-top: 15px;
+}
+
+/* Buttons */
+.btn {
+  border: none;
+  padding: 12px 18px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.btn.start {
+  background: #1ABC9C;
+  color: white;
+  border-color: #16A085;
+}
+
+.btn.start:hover {
+  background: #16A085;
+}
+
+.btn.save {
+  background: #2980B9;
+  color: white;
+  border-color: #2471A3;
+}
+
+.btn.save:hover {
+  background: #21618C;
+}
