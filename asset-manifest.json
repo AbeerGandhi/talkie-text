@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talkie-text/static/css/main.c17ad772.css",
+    "main.js": "/talkie-text/static/js/main.957848c4.js",
+    "static/js/453.1a933619.chunk.js": "/talkie-text/static/js/453.1a933619.chunk.js",
+    "index.html": "/talkie-text/index.html",
+    "main.c17ad772.css.map": "/talkie-text/static/css/main.c17ad772.css.map",
+    "main.957848c4.js.map": "/talkie-text/static/js/main.957848c4.js.map",
+    "453.1a933619.chunk.js.map": "/talkie-text/static/js/453.1a933619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17ad772.css",
+    "static/js/main.957848c4.js"
+  ]
+}
